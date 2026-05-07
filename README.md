@@ -1,4 +1,4 @@
-# SMS Project
+# BarCodeScan
 
 A Flutter application for SMS functionality.
 
