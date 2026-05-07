@@ -50,6 +50,14 @@ pubspec.yaml             # Project dependencies
 - Material Design 3
 - Counter example functionality
 
+<img width="375" height="446" alt="1" src="https://github.com/user-attachments/assets/c75d53cf-056f-4b68-9dc0-72ddf1e366b1" />
+<img width="377" height="446" alt="2" src="https://github.com/user-attachments/assets/04002899-2707-44c3-91c6-adc95eb4e1a8" />
+<img width="376" height="445" alt="3" src="https://github.com/user-attachments/assets/930370db-584d-4d0b-a7e0-eb01ab692e4d" />
+<img width="374" height="434" alt="4" src="https://github.com/user-attachments/assets/93899e53-d3d3-4628-9094-77015c196e94" />
+<img width="374" height="448" alt="5" src="https://github.com/user-attachments/assets/13b128a4-ae6a-4ff0-b9a6-2f7c0c81ca78" />
+
+
+
 ## Contributing
 
 1. Fork the repository
